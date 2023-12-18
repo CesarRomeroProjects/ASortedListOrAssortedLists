@@ -3,9 +3,6 @@
 # Overview
 This project involves implementing a Sorted Linked List in C++, combining various concepts covered during the quarter. The list is doubly linked, and each node contains both a key and a value, maintaining order based on keys. The primary goal is to create a functional and efficient implementation of the specified functions.
 
-# Due Date
-Friday, December 8 at 10:00 AM. Late submissions are accepted with penalties: 20% for one day late, 35% for more than one day but less than two days late.
-
 # Main Idea
 The project focuses on implementing a Sorted Linked List, akin to an ordered map. The list is doubly linked, and each node stores a key-value pair.
 
